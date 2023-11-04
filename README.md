@@ -11,7 +11,7 @@ fuchenschlag should I say more?
     
 ## Run Locally
 
-Create index.html and index.js file and link the javascript
+Create index.html and sandbox.js file and link the javascript
 
 ![Imgur](https://i.imgur.com/Gk9bRpd.png)
 
