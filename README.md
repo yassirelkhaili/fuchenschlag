@@ -23,3 +23,6 @@ Start the liveserver and Enjoy!
 
 ![Imgur](https://i.imgur.com/M8Z9yyP.png)
 
+## contribution
+
+pull requests are welcome
